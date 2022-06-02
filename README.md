@@ -17,7 +17,7 @@ After that, restart the project, letting cocalc enact the changes. After restart
 Once there, you can run the next bash script. This sets up the ipykernels that serve as the backend to your jupyter notebooks: 
 `source init_pykernels.sh`
 
-After that, create a new notebook and connect it to a kernel by clicking on the kernel tab and selecting the kernel that is called "Python (cv_env)"
+After that, create a new notebook and connect it to a kernel by clicking on the kernel tab and selecting the kernel that is called "Python (nlp_env)"
 <img src="kernel_setup.png" width="250" />
 
 If you cannot run cells right now, you might need to kickstart the notebook by running the "validate" button on top and waiting a minute for the backend/kernel to get setup. 
