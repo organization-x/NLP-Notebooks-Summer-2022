@@ -1,3 +1,6 @@
+import torch.nn as nn
+import torch
+
 class Seq2Seq(nn.Module):
     def __init__(
         self, in_maxlen, out_maxlen, n_hidden, enc_n_class, dec_n_class, d_model, num_layers
