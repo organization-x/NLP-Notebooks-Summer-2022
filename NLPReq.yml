@@ -27,6 +27,7 @@ dependencies:
   - tk=8.6.11
   - tqdm=4.64.0
   - wheel=0.37.1
+  - seaborn==0.11.2
   - pip:
     - absl-py==1.0.0
     - aiohttp==3.7.4.post0
