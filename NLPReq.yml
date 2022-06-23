@@ -82,4 +82,5 @@ dependencies:
     - yarl==1.7.2
     - zipp==3.8.0
     - wordcloud==1.8.1
+    - plotly==5.1.0
 prefix: C:\Users\aywhe\anaconda3\envs\NLPReq
